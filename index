@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Audio Test</title>
+</head>
+<body>
+  <audio autoplay controls>
+    <source src="tenbai.mp3" type="audio/mpeg">
+  </audio>
+</body>
+</html>
